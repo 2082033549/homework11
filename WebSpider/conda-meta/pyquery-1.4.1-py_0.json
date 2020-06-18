@@ -1,0 +1,161 @@
+{
+  "build": "py_0",
+  "build_number": 0,
+  "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "cssselect >0.7.9",
+    "lxml >=2.1",
+    "python"
+  ],
+  "extracted_package_dir": "D:\\Anaconda3.2020.02\\pkgs\\pyquery-1.4.1-py_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/pyquery-1.4.1-py2.7.egg-info/PKG-INFO",
+    "Lib/site-packages/pyquery-1.4.1-py2.7.egg-info/SOURCES.txt",
+    "Lib/site-packages/pyquery-1.4.1-py2.7.egg-info/dependency_links.txt",
+    "Lib/site-packages/pyquery-1.4.1-py2.7.egg-info/entry_points.txt",
+    "Lib/site-packages/pyquery-1.4.1-py2.7.egg-info/not-zip-safe",
+    "Lib/site-packages/pyquery-1.4.1-py2.7.egg-info/requires.txt",
+    "Lib/site-packages/pyquery-1.4.1-py2.7.egg-info/top_level.txt",
+    "Lib/site-packages/pyquery/__init__.py",
+    "Lib/site-packages/pyquery/cssselectpatch.py",
+    "Lib/site-packages/pyquery/openers.py",
+    "Lib/site-packages/pyquery/pyquery.py",
+    "Lib/site-packages/pyquery/text.py",
+    "Lib/site-packages/pyquery/__pycache__/__init__.cpython-35.pyc",
+    "Lib/site-packages/pyquery/__pycache__/cssselectpatch.cpython-35.pyc",
+    "Lib/site-packages/pyquery/__pycache__/openers.cpython-35.pyc",
+    "Lib/site-packages/pyquery/__pycache__/pyquery.cpython-35.pyc",
+    "Lib/site-packages/pyquery/__pycache__/text.cpython-35.pyc"
+  ],
+  "fn": "pyquery-1.4.1-py_0.tar.bz2",
+  "license": "BSD 3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "D:\\Anaconda3.2020.02\\pkgs\\pyquery-1.4.1-py_0",
+    "type": 1
+  },
+  "md5": "282ee525b594f32b5cdb2ed1754e41f0",
+  "name": "pyquery",
+  "noarch": "python",
+  "package_tarball_full_path": "D:\\Anaconda3.2020.02\\pkgs\\pyquery-1.4.1-py_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/pyquery-1.4.1-py2.7.egg-info/PKG-INFO",
+        "path_type": "hardlink",
+        "sha256": "861c2d87e7286535c0d4c6d4d9d4f6b1fb0e89e59c74af21417e435eed808b44",
+        "sha256_in_prefix": "861c2d87e7286535c0d4c6d4d9d4f6b1fb0e89e59c74af21417e435eed808b44",
+        "size_in_bytes": 10590
+      },
+      {
+        "_path": "site-packages/pyquery-1.4.1-py2.7.egg-info/SOURCES.txt",
+        "path_type": "hardlink",
+        "sha256": "7b6dc004bdd3051e8945b46bb4918bb06e9f0cded9fe8e4d36f5f7134d6d626f",
+        "sha256_in_prefix": "7b6dc004bdd3051e8945b46bb4918bb06e9f0cded9fe8e4d36f5f7134d6d626f",
+        "size_in_bytes": 953
+      },
+      {
+        "_path": "site-packages/pyquery-1.4.1-py2.7.egg-info/dependency_links.txt",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "site-packages/pyquery-1.4.1-py2.7.egg-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "1632af82f1b2232aa8902c62188542bda1a6916717c045d9f16eb39359adbd94",
+        "sha256_in_prefix": "1632af82f1b2232aa8902c62188542bda1a6916717c045d9f16eb39359adbd94",
+        "size_in_bytes": 37
+      },
+      {
+        "_path": "site-packages/pyquery-1.4.1-py2.7.egg-info/not-zip-safe",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "site-packages/pyquery-1.4.1-py2.7.egg-info/requires.txt",
+        "path_type": "hardlink",
+        "sha256": "e6d0f330e46ce07e4a4c0c88618069df3a69efba5a949be11a072a065542b6f1",
+        "sha256_in_prefix": "e6d0f330e46ce07e4a4c0c88618069df3a69efba5a949be11a072a065542b6f1",
+        "size_in_bytes": 26
+      },
+      {
+        "_path": "site-packages/pyquery-1.4.1-py2.7.egg-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "26a1a2466f71e29c9d935b216ea5859092429b24721c63424c242514ec702db5",
+        "sha256_in_prefix": "26a1a2466f71e29c9d935b216ea5859092429b24721c63424c242514ec702db5",
+        "size_in_bytes": 8
+      },
+      {
+        "_path": "site-packages/pyquery/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "a56d8278d0f89b04f85f4edb3fc2f48ca665cb8ab5d080f94f8a870a8dbe5923",
+        "sha256_in_prefix": "a56d8278d0f89b04f85f4edb3fc2f48ca665cb8ab5d080f94f8a870a8dbe5923",
+        "size_in_bytes": 181
+      },
+      {
+        "_path": "site-packages/pyquery/cssselectpatch.py",
+        "path_type": "hardlink",
+        "sha256": "2f27595bf93df5f9e70991ba43d2ad6970295162e7417ebe4f19dfafa0292382",
+        "sha256_in_prefix": "2f27595bf93df5f9e70991ba43d2ad6970295162e7417ebe4f19dfafa0292382",
+        "size_in_bytes": 14643
+      },
+      {
+        "_path": "site-packages/pyquery/openers.py",
+        "path_type": "hardlink",
+        "sha256": "6c2dafa826222e3a50545978a405083df00e58d940b22f328cc2c4211eb640d3",
+        "sha256_in_prefix": "6c2dafa826222e3a50545978a405083df00e58d940b22f328cc2c4211eb640d3",
+        "size_in_bytes": 2136
+      },
+      {
+        "_path": "site-packages/pyquery/pyquery.py",
+        "path_type": "hardlink",
+        "sha256": "2fbdce9b9f4c1db3637255e4cb5f03492fcac4406368d006ba296bddd0a90784",
+        "sha256_in_prefix": "2fbdce9b9f4c1db3637255e4cb5f03492fcac4406368d006ba296bddd0a90784",
+        "size_in_bytes": 54256
+      },
+      {
+        "_path": "site-packages/pyquery/text.py",
+        "path_type": "hardlink",
+        "sha256": "93c2abcb0e205bc618a08c1057e1fdd6781628119ead8146e663f62542b2629f",
+        "sha256_in_prefix": "93c2abcb0e205bc618a08c1057e1fdd6781628119ead8146e663f62542b2629f",
+        "size_in_bytes": 3611
+      },
+      {
+        "_path": "Lib/site-packages/pyquery/__pycache__/__init__.cpython-35.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pyquery/__pycache__/cssselectpatch.cpython-35.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pyquery/__pycache__/openers.cpython-35.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pyquery/__pycache__/pyquery.cpython-35.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pyquery/__pycache__/text.cpython-35.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "pyquery",
+  "sha256": "5f395c9f3d9c587f5a06c86dca803c638eae8623b9a391d941b807d7ebfe5645",
+  "size": 22368,
+  "subdir": "noarch",
+  "timestamp": 1572783221713,
+  "track_features": "",
+  "url": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch/pyquery-1.4.1-py_0.tar.bz2",
+  "version": "1.4.1"
+}

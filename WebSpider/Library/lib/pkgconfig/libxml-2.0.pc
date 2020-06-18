@@ -1,0 +1,11 @@
+prefix=D:/Anaconda3.2020.02/envs/WebSpider/Library 
+exec_prefix=D:/Anaconda3.2020.02/envs/WebSpider/Library 
+libdir=D:/Anaconda3.2020.02/envs/WebSpider/Library/lib 
+includedir=D:/Anaconda3.2020.02/envs/WebSpider/Library/include 
+modules=0 
+Name: libXML 
+Version: 2.9.10 
+Description: libXML library version2. 
+Requires: 
+Libs: -LD:/Anaconda3.2020.02/envs/WebSpider/Library/lib -lxml2 -liconv -lz 
+Cflags: -ID:/Anaconda3.2020.02/envs/WebSpider/Library/include/libxml 
